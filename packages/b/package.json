@@ -1,0 +1,15 @@
+{
+  "name": "@pirosikick/b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "@pirosikick/a": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true
+}
